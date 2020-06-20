@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &369427239754361027
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4006569489473982268, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 61aa8eb802d7d04429e4925efd4ff1f3,
+        type: 3}
+    - target: {fileID: 4042449582065454331, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: health
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4042449582065454331, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: exp
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4042449582065454331, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: explosionEffect
+      value: 
+      objectReference: {fileID: 6304731734032650120, guid: 4ec11834f12320842812aeb0feafa1d0,
+        type: 3}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5158169435837931637, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5861040816821105316, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_Name
+      value: Log Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684331161467322435, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.265625
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684331161467322435, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.453125
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684331161467322435, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.007533729
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684331161467322435, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.47158933
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684331161467322435, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: 0.003931701
+      objectReference: {fileID: 0}
+    - target: {fileID: 8684331161467322435, guid: e7ef94fdd2112bd4781b2ec119d20696,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 1.2876183
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e7ef94fdd2112bd4781b2ec119d20696, type: 3}

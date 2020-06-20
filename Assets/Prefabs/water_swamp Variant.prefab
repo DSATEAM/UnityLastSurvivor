@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &7558922608618744032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3723097666108373278}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d429c37e3a56aa4eaae540d97fcd566, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &2834654525316833784
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1512557311226222820, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8623618863599700181, guid: 580e856483d52f84a92cba7757d85c00,
+        type: 3}
+    - target: {fileID: 1512557311226222820, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222822, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_Name
+      value: water_swamp Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1512557311226222823, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842572822651898509, guid: 02e9b4871dde71841950812dc4ca91bb,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 02e9b4871dde71841950812dc4ca91bb, type: 3}
+--- !u!1 &3723097666108373278 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1512557311226222822, guid: 02e9b4871dde71841950812dc4ca91bb,
+    type: 3}
+  m_PrefabInstance: {fileID: 2834654525316833784}
+  m_PrefabAsset: {fileID: 0}
